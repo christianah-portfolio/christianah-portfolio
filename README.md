@@ -20,7 +20,7 @@ Welcome to my data analytics portfolio! Here, I showcase my data projects. Each 
 ---
 
 ### 2. Telecom_Customer_Analytics
-[View project](https://github.com/YOUR-USERNAME/mtn-customer-churn-dashboard)
+[View project](https://github.com/christianah-portfolio/Telecom-Customer-Analytics)
 
 **Tools & Skills:** Power BI, Power Query, DAX (DISTINCTCOUNT, AVERAGE, SUM), data cleaning, dashboard design
 
