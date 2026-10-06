@@ -30,7 +30,7 @@ Welcome to my data analytics portfolio! Here, I showcase my data projects. Each 
 
 ---
 
-### 3. Betting Addiction Among Nigerians Dashboard
+### 3. Betting Behaviour Analytics
 [View project](https://github.com/YOUR-USERNAME/betting-addiction-excel-dashboard)
 
 **Tools & Skills:** Excel, Power Query, Pivot Tables, Pivot Charts, slicers, KPI cards
