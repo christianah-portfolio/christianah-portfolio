@@ -8,7 +8,7 @@ Welcome to my data analytics portfolio! Here, I showcase my data projects. Each 
 
 ## 📊 PORTFOLIO PROJECTS
 
-### 1. Logistics Operations Dashboard
+### 1. Logistics_Operations_Analytics
 [View project](https://github.com/christianah-portfolio/Logistics-Operation-Dashboard)
 
 **Tools & Skills:** Power BI, Power Query, DAX, data modelling, data cleaning, KPI design, data validation
@@ -19,7 +19,7 @@ Welcome to my data analytics portfolio! Here, I showcase my data projects. Each 
 
 ---
 
-### 2. MTN Customer Overview Dashboard
+### 2. Telecom_Customer_Analytics
 [View project](https://github.com/YOUR-USERNAME/mtn-customer-churn-dashboard)
 
 **Tools & Skills:** Power BI, Power Query, DAX (DISTINCTCOUNT, AVERAGE, SUM), data cleaning, dashboard design
