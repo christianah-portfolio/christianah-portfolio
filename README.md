@@ -45,5 +45,5 @@ Welcome to my data analytics portfolio! Here, I showcase my data projects. Each 
 
 I am open to data analyst roles and internships. Feel free to reach out:
 
-- LinkedIn: (https://www.linkedin.com/in/christianah-adesua-baa6a734a)
+- LinkedIn: https://www.linkedin.com/in/christianah-adesua-baa6a734a
 - Email: christianahadesua@gmail.com
