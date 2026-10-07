@@ -31,7 +31,7 @@ Welcome to my data analytics portfolio! Here, I showcase my data projects. Each 
 ---
 
 ### 3. Betting Behaviour Analytics
-[View project](https://github.com/YOUR-USERNAME/betting-addiction-excel-dashboard)
+[View project](https://github.com/christianah-portfolio/Betting-Behaviour-Analytics/blob/main/README.md)
 
 **Tools & Skills:** Excel, Power Query, Pivot Tables, Pivot Charts, slicers, KPI cards
 
@@ -45,5 +45,5 @@ Welcome to my data analytics portfolio! Here, I showcase my data projects. Each 
 
 I am open to data analyst roles and internships. Feel free to reach out:
 
-- LinkedIn: [linkedin.com/in/christianah-adesua-baa6a734a](https://www.linkedin.com/in/christianah-adesua-baa6a734a)
+- LinkedIn: (https://www.linkedin.com/in/christianah-adesua-baa6a734a)
 - Email: christianahadesua@gmail.com
