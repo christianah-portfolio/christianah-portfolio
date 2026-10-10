@@ -19,7 +19,18 @@ Welcome to my data analytics portfolio! Here, I showcase my data projects. Each 
 
 ---
 
-### 2. Telecom_Customer_Analytics
+### 2. Retail Sales Analysis (SQL)
+[View project](https://github.com/YOUR-USERNAME/retail-sales-sql-analytics)
+
+**Tools & Skills:** SQL Server, T-SQL, data cleaning, aggregations, GROUP BY, subqueries, CASE statements, window functions
+
+**Project Goal:** Clean a retail sales dataset and use SQL to find which categories earn the most, who the best customers are, and when customers buy.
+
+**Results:** Cleaned 2,000 records down to 1,997 and answered ten business questions. Electronics, Clothing, and Beauty earn almost equal revenue, and about 53% of orders are placed in the evening.
+
+---
+
+### 3. Telecom_Customer_Analytics
 [View project](https://github.com/christianah-portfolio/Telecom-Customer-Analytics)
 
 **Tools & Skills:** Power BI, Power Query, DAX (DISTINCTCOUNT, AVERAGE, SUM), data cleaning, dashboard design
@@ -30,7 +41,7 @@ Welcome to my data analytics portfolio! Here, I showcase my data projects. Each 
 
 ---
 
-### 3. Betting Behaviour Analytics
+### 4. Betting Behaviour Analytics
 [View project](https://github.com/christianah-portfolio/Betting-Behaviour-Analytics/blob/main/README.md)
 
 **Tools & Skills:** Excel, Power Query, Pivot Tables, Pivot Charts, slicers, KPI cards
