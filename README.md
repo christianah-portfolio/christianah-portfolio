@@ -20,7 +20,7 @@ Welcome to my data analytics portfolio! Here, I showcase my data projects. Each 
 ---
 
 ### 2. Retail Sales Analysis (SQL)
-[View project](https://github.com/YOUR-USERNAME/retail-sales-sql-analytics)
+[View project](https://github.com/christianah-portfolio/retail-sales-sql-analytics)
 
 **Tools & Skills:** SQL Server, T-SQL, data cleaning, aggregations, GROUP BY, subqueries, CASE statements, window functions
 
