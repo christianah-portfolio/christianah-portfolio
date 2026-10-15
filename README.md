@@ -30,7 +30,18 @@ Welcome to my data analytics portfolio! Here, I showcase my data projects. Each 
 
 ---
 
-### 3. Telecom_Customer_Analytics
+### 3. Library Management System (SQL)
+[View project](https://github.com/YOUR-USERNAME/library-management-sql-analytics)
+
+**Tools & Skills:** SQL Server, T-SQL, joins (inner, left, self), GROUP BY and HAVING, INSERT / UPDATE / DELETE, SELECT INTO
+
+**Project Goal:** Manage a library's records with SQL, link six related tables, and find which books are borrowed most, which categories earn the most, and which books have not been returned.
+
+**Results:** 20 of 34 issued books had no return record, Classic books earned the most rental income, and 6 members borrowed more than one book.
+
+---
+
+### 4. Telecom_Customer_Analytics
 [View project](https://github.com/christianah-portfolio/Telecom-Customer-Analytics)
 
 **Tools & Skills:** Power BI, Power Query, DAX (DISTINCTCOUNT, AVERAGE, SUM), data cleaning, dashboard design
@@ -41,7 +52,7 @@ Welcome to my data analytics portfolio! Here, I showcase my data projects. Each 
 
 ---
 
-### 4. Betting Behaviour Analytics
+### 5. Betting Behaviour Analytics
 [View project](https://github.com/christianah-portfolio/Betting-Behaviour-Analytics/blob/main/README.md)
 
 **Tools & Skills:** Excel, Power Query, Pivot Tables, Pivot Charts, slicers, KPI cards
