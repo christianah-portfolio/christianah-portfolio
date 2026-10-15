@@ -31,8 +31,7 @@ Welcome to my data analytics portfolio! Here, I showcase my data projects. Each 
 ---
 
 ### 3. Library Management System (SQL)
-[View project](https://github.com/YOUR-USERNAME/library-management-sql-analytics)
-
+[View project](https://github.com/christianah-portfolio/Library-Management-System-SQL)
 **Tools & Skills:** SQL Server, T-SQL, joins (inner, left, self), GROUP BY and HAVING, INSERT / UPDATE / DELETE, SELECT INTO
 
 **Project Goal:** Manage a library's records with SQL, link six related tables, and find which books are borrowed most, which categories earn the most, and which books have not been returned.
