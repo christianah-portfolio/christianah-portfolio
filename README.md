@@ -2,7 +2,9 @@
 
 ## 📖 ABOUT
 
-Welcome to my data analytics portfolio! Here, I showcase my data projects. Each project below includes a brief summary of the tools, skills used, project goals, and results achieved.
+I am a Data Analyst with hands-on experience using Excel, SQL Server, and Power BI to clean data, analyse trends, answer business questions, and communicate findings through reports and dashboards.
+
+This portfolio showcases practical projects in logistics operations, retail sales, customer analytics, database management, and survey analysis. Each project documents the problem explored, tools and methods used, key findings, and recommendations where applicable.
 
 ---
 
